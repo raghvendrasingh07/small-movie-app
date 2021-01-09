@@ -12,12 +12,13 @@ This is small movie app project. It fetch movies data through API and display in
 
 To run this project, install it locally using npm:
 
-### `gh repo clone raghvendrasingh07/small-movie-app`
+```sh
+$ gh repo clone raghvendrasingh07/small-movie-app.git
 
-### `cd ../small-movie-app`
+$ cd ../small-movie-app
 
-### `npm install`
+$ npm install
 
-### `npm start`
-
+$ npm start
+```
 Now, open [http://localhost:3000](http://localhost:3000) to view it in the browser.
